@@ -12,4 +12,4 @@ React framework do tui tự cấu hình, để dành tui xài
 ## Cách run
 
 `npm run dev`: chạy thử trong lúc lập trình.
-`npm run build`: chạy thử product
+`npm run build`: chạy thử product.
