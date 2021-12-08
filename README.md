@@ -8,3 +8,8 @@ React framework do tui tự cấu hình, để dành tui xài
 - [ ] Cấu hình state manager (redux toolkit)
 - [ ] Cấu hình pwa
 - [ ] Cấu hình webassembly
+
+## Cách run
+
+`npm run dev`: chạy thử trong lúc lập trình.
+`npm run build`: chạy thử product
